@@ -1,6 +1,8 @@
 #include <iostream>
+#include "QuickFindUF.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    QuickFindUF quickFindUF(10);
+    std::cout << "QuickFind vector:" << quickFindUF.toString() << std::endl;
     return 0;
 }
