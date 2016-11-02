@@ -14,7 +14,7 @@ public:
     QuickFindUF(int N);
 
     bool connected(const int & p, const int & q);
-    bool union_now(const int & p, const int & q);
+    void union_now(const int & p, const int & q);
 
     std::string toString();
 };

@@ -15,14 +15,13 @@ QuickFindUF::QuickFindUF(int N) {
 bool QuickFindUF::connected(const int &p, const int &q) {
     return id[p] == id[q];
 }
-bool QuickFindUF::union_now(const int &p, const int &q) {
+void QuickFindUF::union_now(const int &p, const int &q) {
     int pid = id[p];
     int qid = id[q];
 
     for(auto it = id.begin(); it != id.end(); ++it){
         if(*it == pid) *it = qid;
     }
-    return false;
 }
 
 std::string QuickFindUF::toString() {
