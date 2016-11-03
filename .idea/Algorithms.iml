@@ -4,11 +4,13 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/week1/QuickUnionUF.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week1/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/week1/QuickUnionImprovedUF.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week1/QuickFindUF.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/week1/BinarySearch.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week1/QuickUnionImprovedUF.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week1/QuickUnionUF.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week1/QuickFindUF.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/week1/QuickUnionImprovedUF.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/week1/BinarySearch.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
