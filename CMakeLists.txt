@@ -7,5 +7,6 @@ set(SOURCE_FILES src/week1/QuickUnionUF.cpp
         src/week1/QuickFindUF.cpp
         src/week1/main.cpp
         src/week1/QuickUnionImprovedUF.cpp
-        src/week1/BinarySearch.cpp)
+        src/week1/BinarySearch.cpp
+        src/week2/LinkedStackOfStrings.cpp)
 add_executable(Algorithms ${SOURCE_FILES})

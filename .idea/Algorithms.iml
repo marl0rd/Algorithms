@@ -2,6 +2,8 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/week2/LinkedStackOfStrings.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/week2/LinkedStackOfStrings.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week1/QuickUnionUF.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week1/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week1/QuickUnionImprovedUF.h" isTestSource="false" />
