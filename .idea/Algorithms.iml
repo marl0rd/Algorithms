@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/week2/FixedCapacityOfStrings.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week2/ResizingArrayStackOfStrings.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week2/ResizingArrayStackOfStrings.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/week2/LinkedQueueOfStrings.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/week2/LinkedQueueOfStrings.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week2/LinkedStackOfStrings.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week2/FixedCapacityOfStrings.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/week1/QuickUnionUF.h" isTestSource="false" />
