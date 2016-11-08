@@ -4,6 +4,7 @@
 
 #include "LinkedStackOfStrings.h"
 
+
 bool LinkedStackOfStrings::isEmpty(){
     return first == nullptr;
 }

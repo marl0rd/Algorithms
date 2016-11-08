@@ -22,8 +22,6 @@ class LinkedStackOfStrings{
 
 public:
     bool isEmpty();
-
     void push(std::string item);
-
     std::string pop();
 };
